@@ -1,0 +1,29 @@
+Title
+Proceedings of the Third Conference on Machine Translation: Research Papers  WMT 2018  Belgium  Brussels  October 31 - November 1  2018.
+Scaling Neural Machine Translation.
+Character-level Chinese-English Translation through ASCII Encoding.
+Neural Machine Translation of Logographic Language Using Sub-character Level Information.
+An Analysis of Attention Mechanisms: The Case of Word Sense Disambiguation in Neural Machine Translation.
+Discourse-Related Language Contrasts in English-Croatian Human and Machine Translation.
+Coreference and Coherence in Neural Machine Translation: A Study Using Oracle Experiments.
+A Large-Scale Test Set for the Evaluation of Context-Aware Pronoun Translation in Neural Machine Translation.
+Beyond Weight Tying: Learning Joint Input-Output Embeddings for Neural Machine Translation.
+A neural interlingua for multilingual machine translation.
+Improving Neural Language Models with Weight Norm Initialization and Regularization.
+Contextual Neural Model for Translating Bilingual Multi-Speaker Conversations.
+Attaining the Unattainable? Reassessing Claims of Human Parity in Neural Machine Translation.
+Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation.
+Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection.
+Using Monolingual Data in Neural Machine Translation: a Systematic Study.
+Neural Machine Translation into Language Varieties.
+Effective Parallel Corpus Mining using Bilingual Sentence Embeddings.
+On The Alignment Problem In Multi-Head Attention-Based Neural Machine Translation.
+A Call for Clarity in Reporting BLEU Scores.
+Exploring gap filling as a cheaper alternative to reading comprehension questionnaires when evaluating machine translation for gisting.
+Simple Fusion: Return of the Language Model.
+Correcting Length Bias in Neural Machine Translation.
+Extracting In-domain Training Corpora for Neural Machine Translation Using Data Selection Methods.
+Massively Parallel Cross-Lingual Learning in Low-Resource Target Language Translation.
+Trivial Transfer Learning for Low-Resource Neural Machine Translation.
+Input Combination Strategies for Multi-Source Transformer Decoder.
+Parameter Sharing Methods for Multilingual Self-Attentional Translation Models.

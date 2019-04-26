@@ -1,0 +1,114 @@
+Title
+Progress in Pattern Recognition  Image Analysis  Computer Vision  and Applications - 23rd Iberoamerican Congress  CIARP 2018  Madrid  Spain  November 19-22  2018  Proceedings.
+Large Scale Learning Techniques for Least Squares Support Vector Machines.
+An Automatic Approximate Bayesian Computation Approach Using Metric Learning.
+Generative Models for Deep Learning with Very Scarce Data.
+Data Augmentation via Variational Auto-Encoders.
+LSTM-Based Multi-scale Model for Wind Speed Forecasting.
+Using Deep Learning to Classify Class Imbalanced Gene-Expression Microarrays Datasets.
+A Data Representation Approach to Support Imbalanced Data Classification Based on TWSVM.
+Improving Regression Models by Dissimilarity Representation of Bio-chemical Data.
+A Comparative Study on Unsupervised Domain Adaptation for Coffee Crop Mapping.
+Analytical Comparison of Histogram Distance Measures.
+Gaussian Processes Regression with Multiple Annotators: When the Annotator Performance Is Not Homogeneous.
+Linear Projection Learned from Hybrid CKA for Enhancing Distance-Based Classifiers.
+Evaluation of Bag-of-Word Performance for Time Series Classification Using Discriminative SIFT-Based Mid-Level Representations.
+Color Classification Methods for Perennial Weed Detection in Cereal Crops.
+Hierarchical Graph-Based Segmentation in Detection of Object-Related Regions.
+Dealing with Heterogeneous Google Earth Images on Building Area Detection Task.
+Evaluation of Scale-Aware Realignments of Hierarchical Image Segmentation.
+3D SfM as a Measuring Technique for Human Body Transformation.
+Outlier Detection for Line Matching.
+Detection of Small Portions of Water in VIS-NIR Images Acquired by UAVs.
+Predicting City Safety Perception Based on Visual Image Content.
+Analysis and Classification of MoCap Data by Hilbert Space Embedding-Based Distance and Multikernel Learning.
+An Out of Sample Version of the EM Algorithm for Imputing Missing Values in Classification.
+Multi-granulation Strategy via Feature Subset Extraction by Using a Genetic Algorithm and a Rough Sets-Based Measure of Dependence.
+Boosting Collaborative Filters for Drug-Target Interaction Prediction.
+Fast Adapting Mixture Parameters Schemes for Probability Density Difference-Based Deformable Model.
+Optimal Stochastic Excitation for Linear Flaw Detection in a Solid Material.
+Computing Anomaly Score Threshold with Autoencoders Pipeline.
+Generating Random Variates via Kernel Density Estimation and Radial Basis Function Based Neural Networks.
+Detection of Bat Acoustics Signals Using Voice Activity Detection Techniques with Random Forests Classification.
+Space Efficient Incremental Betweenness Algorithm for Directed Graphs.
+Confusion Matrix-Based Building of Hierarchical Classification.
+Information Potential Variability for Hyperparameter Selection in the MMD Distance.
+A Fuzzy Classifier for Data Streams with Infinitely Delayed Labels.
+Generalized Multitarget Linear Regression with Output Dependence Estimation.
+A New Weighted k-Nearest Neighbor Algorithm Based on Newton's Gravitational Force.
+Towards Hierarchical Classification of Data Streams.
+Non-parametric Contextual Relationship Learning for Semantic Video Object Segmentation.
+Superpixel Segmentation by Object-Based Iterative Spanning Forest.
+Frequency Analysis of Topological Projections onto Klein Bottle for Texture Characterization.
+Singular Patterns in Optical Flows as Dynamic Texture Descriptors.
+Efficient Unsupervised Image Segmentation by Optimum Cuts in Graphs.
+Dirichlet Series in Complex Network Modeling of Texture Images.
+Detection of Vertices in Sketched Drawings of Polyhedral Shapes.
+A Note on the Phase Congruence Method in Image Analysis.
+An Efficient CBIR System for High Resolution Remote Sensing Images.
+Experimental Analysis of Measurements Fusion for Pose Estimation Using PMD Sensor.
+Automated Colony Counter for Single Plate Serial Dilution Spotting.
+Image Inpainting Based on Local Patch Search Supported by Image Segmentation.
+Bio-Inspired Perception Sensor (BIPS) Concept Analysis for Embedded Applications.
+Deterministic Partially Self-avoiding Walks on Networks for Natural Shapes Classification.
+Hierarchy-Based Salient Regions: A Region Detector Based on Hierarchies of Partitions.
+Logarithmic Mathematical Morphology: A New Framework Adaptive to Illumination Changes.
+FqSD: Full-Quaternion Saliency Detection in Images.
+Graph-Based Image Segmentation Using Dynamic Trees.
+Radial Textures: A New Approach to Analyze Meat Quality by Using MRI.
+An Enhanced Sequential Search Feature Selection Based on mRMR to Support FCD Localization.
+Automated Identification and Classification of Diatoms from Water Resources.
+Novel Scene Recognition Using TrainDetector.
+PointNet Evaluation for On-Road Object Detection Using a Multi-resolution Conditioning.
+Multimodal Object Recognition Using Deep Learning Representations Extracted from Images and Smartphone Sensors.
+Object Detection on Base of Modified Convolutional Network.
+Robust Fourier-Based Checkerboard Corner Detection for Camera Calibration.
+Spatiotemporal CNNs for Pornography Detection in Videos.
+Nose Based Rigid Face Tracking.
+On Combining Face Local Appearance and Geometrical Features for Race Classification.
+Facial Landmarks Detection Using a Cascade of Recombinator Networks.
+Measuring the Gender and Ethnicity Bias in Deep Models for Face Recognition.
+3D Face Recognition with Reconstructed Faces from a Collection of 2D Images.
+Comparison of Angle and Size Features with Deep Learning for Emotion Recognition.
+Fast and Accurate Person Re-identification with Xception Conv-Net and C2F.
+A Novel Multi-purpose Deep Architecture for Facial Attribute and Emotion Understanding.
+Are Deep Learning Methods Ready for Prime Time in Fingerprints Minutiae Extraction?
+Fingerprint Image Quality Assessment Based on Oriented Pattern Analysis.
+Towards End-to-End DNN-Based Identification of Individual Manta Rays from Sparse Imagery.
+Two Stream Deep CNN-RNN Attentive Pooling Architecture for Video-Based Person Re-identification.
+Recognition of Genetic Disorders Based on Deep Features and Geometric Representation.
+Circular Non-uniform Sampling Patch Inputs for CNN Applied to Multiple Sclerosis Lesion Segmentation.
+End-to-End Ovarian Structures Segmentation.
+Exploring Deep-Based Approaches for Semantic Segmentation of Mammographic Images.
+Short Time EEG Connectivity Features to Support Interpretability of MI Discrimination.
+Improving Ensemble Averaging by Epoch Detrending in Evoked Potentials.
+Color Features Extraction and Classification of Digital Images of Erythrocytes Infected by Plasmodium berghei.
+Automated Pneumothorax Diagnosis Using Deep Neural Networks.
+Classification of Melanoma Images with Fisher Vectors and Deep Learning.
+Automatic Identification of DBS Parameters from the Volume of Tissue Activated (VTA) Using Support Vector Machines.
+Interactive Border Contour with Automatic Tracking Algorithm Selection for Medical Images.
+Learning to Recognize Abnormalities in Chest X-Rays with Location-Aware Dense Networks.
+An Automatic Brain Tumor Segmentation Approach Based on Affinity Clustering.
+Enhanced Graph Cuts for Brain Tumor Segmentation Using Bayesian Optimization.
+Convolutional Neural Network Architectures for Texture Classification of Pulmonary Nodules.
+Reconstructed Phase Space and Convolutional Neural Networks for Classifying Voice Pathologies.
+QRS Detection in ECG Signal with Convolutional Network.
+Gender Effects on an EEG-Based Emotion Level Classification System.
+EEG Channel Relevance Analysis Using Maximum Mean Discrepancy on BCI Systems.
+Forward Modelling Complexity Influence in EEG Source Localization Using Real EEG Data.
+Emotion Recognition with Ensemble Using mRMR-Based Feature Selection.
+Regularization for Graph-Based Transfer Learning Text Classification.
+Math Formula Script and Type Identification and Recognition.
+Evaluating AdaBoost for Plagiarism Detection.
+Predicting Academic-Challenge Success.
+Visual Semantic Re-ranker for Text Spotting.
+A Hybrid Feature Extraction Method for Offline Handwritten Math Symbol Recognition.
+Improving Handwritten Character Recognition by Using a Ranking-Based Feature Selection Approach.
+Using Image Processing Techniques and HD-EMG for Upper Limb Prosthesis Gesture Recognition.
+An Effective Approach Based on a Subset of Skeleton Joints for Two-Person Interaction Recognition.
+Evaluating Deep Models for Dynamic Brazilian Sign Language Recognition.
+A DTW-Based Representation to Support Static Sign Language Recognition from Binary Images.
+Human Activity Recognition Using Multi-modal Data Fusion.
+Using Scene Context to Improve Action Recognition.
+Empirical Evaluation of the BCOC Method on Multi-Domain Sentiment Analysis Data Sets.
+Improving Attitude Words Classification for Opinion Mining Using Word Embedding.

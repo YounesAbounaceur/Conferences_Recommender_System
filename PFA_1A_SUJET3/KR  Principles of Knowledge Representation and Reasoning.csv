@@ -1,0 +1,95 @@
+Title
+Principles of Knowledge Representation and Reasoning: Proceedings of the Sixteenth International Conference  KR 2018  Tempe  Arizona  30 October - 2 November 2018.
+Preference Relations by Approximation.
+Introducing Temporal Stable Models for Linear Dynamic Logic.
+Weight Learning in a Probabilistic Extension of Answer Set Programs.
+A Hybrid Approach to Optimization in Answer Set Programming.
+Omission-Based Abstraction for Answer Set Programs.
+A Generator of Hard 2QBF Formulas and ASP Programs.
+Computing Logic Programs with Ordered Disjunction Using asprin.
+A Model-Based Approach to Visual Reasoning on CNLVR Dataset.
+SMT-Based Constraint Answer Set Solver EZSMT+ for Non-Tight Programs.
+SOGrounder: Modelling and Solving Second-Order Logic.
+An Incremental Approach to Structured Argumentation over Dynamic Knowledge Bases.
+Gradual Semantics Accounting for Similarity between Arguments.
+Measuring Similarity between Logical Arguments.
+If Nothing Is Accepted - Repairing Argumentation Frameworks.
+Combining Extension-Based Semantics and Ranking-Based Semantics for Abstract Argumentation.
+Constructive Logic Covers Argumentation and Logic Programming.
+Updating Belief in Arguments in Epistemic Graphs.
+Continuous Dynamical Systems for Weighted Bipolar Argumentation.
+Probabilistic Strength of Arguments with Structure.
+Probabilistic Abstract Argumentation Based on SCC Decomposability.
+Extension Enforcement under Grounded Semantics in Abstract Argumentation.
+Reachability Analysis for Neural Agent-Environment Systems.
+Hunting for Tractable Languages for Judgment Aggregation.
+iCon: A Diagrammatic Theorem Prover for Ontologies.
+On Strengthening the Logic of Iterated Belief Revision: Proper Ordinal Interval Operators.
+A Semantic Perspective on Belief Change in a Preferential Non-Monotonic Framework.
+Incorporating Relevance in Epistemic States in Belief Revision.
+Studies in Credibility-Limited Base Revision.
+Axiomatizing a Qualitative Principle of Conditional Preservation for Iterated Belief Change.
+Specifying Plausibility Levels for Iterated Belief Change in the Situation Calculus.
+Default Reasoning via Topology and Mathematical Analysis: A Preliminary Report.
+Parametrised Difference Revision.
+Towards Belief Contraction without Compactness.
+On Belief Promotion.
+Preference Aggregation with Incomplete CP-Nets.
+Making Repairs in Description Logics More Gentle.
+Reasoning with Justifiable Exceptions in Contextual Hierarchies.
+The Combined Approach to Query Answering in Horn-ALCHOIQ.
+Knowledge-Based Transfer Learning Explanation.
+A Parameterized Complexity View on Description Logic Reasoning.
+Finite Query Answering in Expressive Description Logics with Transitive Roles.
+From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules.
+Query Expressibility and Verification in Ontology-Based Data Access.
+Query Answering for Rough EL Ontologies.
+ExactLearner: A Tool for Exact Learning of EL Ontologies.
+Heuristic Search Planning With Multi-Objective Probabilistic LTL Constraints.
+Bisimulations for Logics of Strategies: A Study in Expressiveness and Verification.
+Approximating Perfect Recall When Model Checking Strategic Abilities.
+Better Eager Than Lazy? How Agent Types Impact the Successfulness of Implicit Coordination.
+Finite LTL Synthesis with Environment Assumptions and Quality Measures.
+Abductive Diagnosis of Complex Active Systems with Compiled Knowledge.
+Compiling Away Soft Trajectory Constraints in Planning.
+On the Progression of Situation Calculus Universal Theories with Constants.
+On Laws and Counterfactuals in Causal Reasoning.
+Combining the Causal Judgments of Experts with Possibly Different Focus Areas.
+Complexity of Projection with Stochastic Actions in a Probabilistic Description Logic.
+Symbolic Verification of Golog Programs with First-Order BDDs.
+Reasoning about Knowledge and Strategies under Hierarchical Information.
+A Novel Automata-Theoretic Approach to Timeline-Based Planning.
+Qualitative Representation and Reasoning over Direction Relations across Different Frames of Reference.
+Cutting Diamonds: A Temporal Logic with Probabilistic Distributions.
+The Window Validity Problem in Rule-Based Stream Reasoning.
+Approximating Certainty in Querying Data and Metadata.
+Propositional and Predicate Logics of Incomplete Information.
+Quantified Markov Logic Networks.
+Gradual Semantics for Weighted Graphs: An Unifying Approach.
+Synthesis under Assumptions.
+Relaxing and Restraining Queries for OBDA - Extended Abstract.
+Loop Restricted Existential Rules and First-Order Rewritability for Query Answering.
+Changing Observations in Epistemic Temporal Logic.
+Some Thoughts On Well-Foundedness in Weighted Abstract Argumentation.
+Towards Lazy Grounding with Lazy Normalization in Answer-Set Programming - Extended Abstract.
+Decidability and Complexity of Timeline-Based Planning over Dense Temporal Domains.
+A General Approach to Reasoning with Probabilities - Extended Abstract.
+Argumentation for Reasoning with Conflicting Clinical Guidelines and Preferences.
+Partial-State Progression for Stream Reasoning with Metric Temporal Logic.
+Navigability with Bounded Recall.
+Knowledge Compilation in the Multi-Agent Epistemic Logic Kn.
+Exploiting Treewidth for Counting Projected Answer Sets.
+Towards Explainable Inference about Object Motion using Qualitative Reasoning.
+Variable Elimination for DLP-Functions.
+Two AGM-Style Characterizations of Model Repair.
+Bayesian Model Selection in Statistical Construction of Justification.
+New Inference Relations from Maximal Consistent Subsets.
+A SAT-Based Approach For PSPACE Modal Logics.
+A Comprehensive Framework for Controlled Query Evaluation  Consistent Query Answering and KB Updates in Description Logics.
+On Limited Conjunctions in Polynomial Feature Logics  with Applications in OBDA.
+Knowledge Representation and Reasoning in Answering Science Questions: A Case Study for Food Web Questions.
+Strategic Coalitions in Systems with Catastrophic Failures.
+Structure Learning for Relational Logistic Regression: An Ensemble Approach.
+Probabilistic Coalition Structure Generation.
+Metric Temporal Extensions of DL-Lite and Interval-Rigid Names.
+Propositional Belief Merging with OWA Operators.

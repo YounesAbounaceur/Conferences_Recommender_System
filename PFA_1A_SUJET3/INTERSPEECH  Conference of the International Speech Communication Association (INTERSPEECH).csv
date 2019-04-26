@@ -1,0 +1,102 @@
+Title
+Binaural Speech Intelligibility Estimation Using Deep Neural Networks
+Real-Time Scoring of an Oral Reading Assessment on Mobile Devices
+Conditional End-to-End Audio Transformations
+Speech Recognition for Medical Conversations	
+Improved Supervised Locality Preserving Projection for I-vector Based Speaker Verification	
+Attentive Sequence-to-Sequence Learning for Diacritic Restoration of Yor?b?Language Text	
+Frequency Domain Variants of Velvet Noise and Their Application to Speech Processing and Synthesis	
+A Novel Normalization Method for Autocorrelation Function for Pitch Detection and for Speech Activity Detection	
+Dithered Quantization for Frequency-Domain Speech and Audio Coding
+Categorical vs Dimensional Perception of Italian Emotional Speech
+Cross-language Perception of Mandarin Lexical Tones by Mongolian-speaking Bilinguals in the Inner Mongolia Autonomous 
+Leveraging Mixture Structure from Multivariate von Mises-Fisher Distributions for Informed Speaker Clustering for Naturalistic Audio Streams
+The INTERSPEECH 2018 Computational Paralinguistics Challenge: Atypical & Self-Assessed Affect; Crying & Heart Beats
+Acoustic and Textual Data Augmentation for Improved ASR of Code-Switching Speech	
+Investigating the Effect of Audio Duration on Dementia Detection Using Acoustic Features	
+The Trajectory of Voice Onset Time with Vocal Aging
+Voice Comparison and Rhythm: Behavioral Differences between Target and Non-target Comparisons	
+Entity-Aware Language Model as an Unsupervised Reranker	
+Effects of User Controlled Speech Rate on Intelligibility in Noisy Environments	
+The ?West Yorkshire Regional English Database: Investigations into the Generalizability of Reference Populations for Forensic Speaker	
+Articulatory Features for ASR of Pathological Speech	
+Vowel Space as a Tool to Evaluate Articulation Problems
+Performance Analysis of the 2017 NIST Language Recognition Evaluation	
+Gated Convolutional Neural Network for Sentence Matching
+COSMO SylPhon: a Model to Assess Phonological Learning
+Active Memory Networks for Language Modeling
+Lattice-free State-level Minimum Bayes Risk Training of Acoustic Models	
+Deep Speech Denoising with Vector Space Projections
+What to Expect from Expected Kneser-Ney Smoothing
+Emotional Prosody Perception in Mandarin-speaking Congenital Amusics	
+Analysis of Length Normalization in End-to-End Speaker Verification System
+Overview of the 2018 Spoken CALL Shared Task	nna Gerlach; Mengjie Qian; Manny Rayner; Martin Russell; Helmer Strik and Xizi Wei
+Comparing the Max and Noisy-Or Pooling Functions in Multiple Instance Learning for Weakly Supervised Sequence Learning Tasks	
+Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach
+Attentive Statistics Pooling for Deep Speaker Embedding	
+UltraFit: a Speaker-friendly Headset for Ultrasound Recordings in Speech Sciences
+Bags in Bag: Generating Context-Aware Bags for Tracking Emotions from Speech
+Articulatory-to-speech Conversion Using Bi-directional Long Short-term Memory	
+The CSU-K Rule-Based System for the 2nd Edition Spoken CALL Shared Task	
+Follow-up Question Generation Using Pattern-based Seq2Seq with a Small Corpus for Interview Coaching	
+Learning Acoustic Word Embeddings with Temporal Context for Query-by-Example Speech Search
+Capsule Networks for Low Resource Spoken Language Understanding	
+Learning Discriminative Features for Speaker Identification and Verification	
+LSTM Based Attentive Fusion of Spectral and Prosodic Information for Keyword Spotting in Hindi Language
+Detection of Glottal Closure Instants in Degraded Speech Using Single Frequency Filtering Analysis
+Annotator Trustability-based Cooperative Learning Solutions for Intelligent Audio Analysis	
+Deep Noise Tracking Network: a Hybrid Signal Processing/Deep Learning Approach to Speech Enhancement
+Unsupervised and Efficient Vocabulary Expansion for Recurrent Neural Network Language Models in ASR	
+MTGAN: Speaker Verification through Multitasking Triplet Generative Adversarial Networks	
+Effective Acoustic Cue Learning Is Not Just Statistical; It Is Discriminative
+Compression of End-to-End Models
+Postfiltering with Complex Spectral Correlations for Speech and Audio Coding	
+Postfiltering Using Log-Magnitude Spectrum for Speech and Audio Coding
+Improving Attention Based Sequence-to-Sequence Models for End-to-End English Conversational Speech Recognition
+Discriminating between nasals and approximants in English language Using zero time windowing
+Scalable Factorized Hierarchical Variational Autoencoder Training
+Contextual Slot Carryover for Disparate Schemas
+Stream Attention for Distributed Multi-Microphone Speech Recognition	
+Articulatory Consequences of Vocal Effort Elicitation Method
+Cross-Lingual Multi-Task Neural Architecture for Spoken Language Understanding	
+Spoofing Detection Using Adaptive Weighting Framework and Clustering Analysis	
+Designing a Pneumatic Bionic Voice Prosthesis - Statistical Approach for Source Excitation Generation	
+Training Utterance-level Embedding Networks for Speaker Identification and Verification
+Bone-Conduction Sensor Assisted Noise Estimation for Improved Speech Enhancem
+Comparison of Syllabification Algorithms and Training Strategies for Robust Word Count Estimation across Different Languages
+Acoustic Modeling with DFSMN-CTC and Joint CTC-CE Learning
+Towards a Better Characterization of Parkinsonian Speech: a Multidimensional Acoustic Study	
+Low-Latency Neural Speech Translation
+Structured Word Embedding for Low Memory Neural Network Language Model	
+An End-to-End Text-Independent Speaker Identification System on Short Utterances	
+Dysarthric Speech Classification Using Glottal Features Computed from Non-words; Words and Sentences	
+Length Contrast and Covarying Features: Whistled Speech as a Case Study	Rachid Ridouane
+On the Usefulness of the Speech Phase Spectrum for Pitch Extraction
+Semi-supervised Cross-domain Visual Feature Learning for Audio-Visual Broadcast Speech Transcription
+Regional Variation of /R/ in Swiss German Dialects
+i-Vectors in Language Modeling: an Efficient Way of Domain Adaptation for Feed-Forward Models
+Structural Effects on Properties of Consonantal Gestures in Tashlhiyt
+Multiple Instance Deep Learning for Weakly Supervised Small-Footprint Audio Event Detection
+Voice Conversion with Conditional SampleRNN	Cong Zhou
+Contextual Language Model Adaptation for Conversational Agents
+Improved ASR for Under-resourced Languages through Multi-task Learning with Acoustic Landmarks
+Self-similarity Matrix Based Intelligibility Assessment of Cleft Lip and Palate Speech
+Formant Measures of Vowels Adjacent to Alveolar and Retroflex Consonants in Arrernte: Stressed and Unstressed Position
+Linear Prediction Residual based Short-term Cepstral Features for Replay Attacks Detection
+A Voice Conversion Framework with Tandem Feature Sparse Representation and Speaker-Adapted
+Emotion Recognition from Human Speech Using Temporal Information and Deep Learning
+Bidirectional Long-Short Term Memory Network-based Estimation of Reliable Spectral Component Locations
+Joint Noise and Reverberation Adaptive Learning for Robust Speaker DOA Estimation with An Acoustic Vector Sensor
+Multi-modal Attention Mechanisms in LSTM and Its Application to Acoustic Scene Classification
+Rapid Collection of Spontaneous Speech Corpora Using Telephonic Community Forum
+Monoaural Audio Source Separation Using Variational Autoencoders
+Deep Learning Techniques for Koala Activity Detection
+Glottal Closure Instant Detection from Speech Signal Using Voting Classifier and Recursive Feature Elimination
+User Information Augmented Semantic Frame Parsing Using Progressive Neural Networks
+A Shifted Delta Coefficient Objective for Monaural Speech Separation Using Multi-task Learning
+Joint Learning Using Denoising Variational Autoencoders for Voice Activity Detection
+Temporal Transformer Networks for Acoustic Scene Classification
+State Gradients for RNN Memory Analysis
+Waveform-Based Speaker Representations for Speech Synthesis
+Leveraging Second-Order Log-Linear Model for Improved Deep Learning Based ASR Performance
+Self-Attentive Speaker Embeddings for Text-Independent Speaker Verification

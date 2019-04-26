@@ -1,0 +1,165 @@
+Title
+"21st International Conference on Information Fusion, FUSION 2018, Cambridge, UK, July 10-13, 2018."
+Cubature and Quadrature Based Continuous-Discrete Filters for Maneuvering Target Tracking.
+Three-dimensional Tracking with Angle Measurements Without Observer Maneuver.
+Single-Point Bistatic Track Initialization Using Doppler in 3D.
+Multitarget Tracking Using Over-the-Horizon Radar.
+A Novel Variable Structure Multi-Model Tracking Algorithm Based on Error-Ambiguity Decomposition.
+Ensemble Kalman Filtering for Online Gaussian Process Regression and Learning.
+Sparse Structure Enabled Grid Spectral Mixture Kernel for Temporal Gaussian Process Regression.
+A Gaussian Process Regression for Natural Gas Consumption Prediction Based on Time Series Data.
+A Gaussian Process Regression Approach for Fusion of Remote Sensing Images for Oil Spill Segmentation.
+Distributed Kalman Filter for A Class of Nonlinear Uncertain Systems: An Extended State Method.
+Event-Triggered Consensus Bernoulli Filtering.
+Distributed Observations in Meteorological Ensemble Data Assimilation and Forecasting.
+Analysis of Partial Knowledge of Correlations in an Estimation Fusion Problem.
+New Theory and Numerical Results for Gromov's Method for Stochastic Particle Flow Filters.
+Comparison of Gain Function Approximation Methods in the Feedback Particle Filter.
+Reduced Order Nonlinear Filters for Multi-Scale Systems with Correlated Sensor Noise.
+MCMC Smoothing for Generalized Random Tour Particle Filters.
+Posterior Cramér-Rao Bound for Target Tracking in the Presence of Multipath.
+A General Class of Bayesian Lower Bounds Tighter than the Weiss-Weinstein Family.
+Bound on the Estimation of a 3-D Trajectory from a Stationary Passive Sensor and its Attainability.
+"Bobrovsky-Zakai Bound for Filtering, Prediction and Smoothing of Nonlinear Dynamic Systems."
+Multivariate Bayesian Cramér-Rao-Type Bound for Stochastic Filtering Involving Periodic States.
+Multi-Scan Generalized Labeled Multi-Bernoulli Filter.
+Handling of Multiple Measurement Hypotheses in an Efficient Labeled Multi-Bernoulli Filter.
+A new Cardinalized Probability Hypothesis Density Filter with Efficient Track Continuity and Extraction.
+A Variational Bayesian Labeled Multi-Bernoulli Filter for Tracking with Inverse Wishart Distribution.
+Identifying Interactions for Information Fusion System Design Using Machine Learning Techniques.
+Application of a New Distribution to High Grazing Angle Sea-Clutter.
+Motion Artefacts Modelling in the Application of a Wireless Electrocardiogram.
+On Effect of Information Loss on Fuser Quality and Utility.
+State Estimation with a Heading Constraint.
+Non-Bayesian Track-Before-Detect Using Cauchy-Schwarz Divergence-Based Information Fusion.
+Track-Before-Detect Strategies for Multiple-PRF Radar System with Range and Doppler Ambiguities.
+Convex Combination for Source Localization Using Received Signal Strength Measurements.
+A Crowd-Sensing Procrustes-Based Method for Indoor Positioning in a Common Frame of Reference.
+Passive Multi-Target Tracking Using the Adaptive Birth Intensity PHD Filter.
+Robust Bayesian Filtering Using Bayesian Model Averaging and Restricted Variational Bayes.
+A Novel Robust Rauch-Tung-Striebel Smoother Based on Slash and Generalized Hyperbolic Skew Student's T-Distributions.
+A Fast Numerical Method for the Optimal Data Fusion in the Presence of Unknown Correlations.
+Fusion of GPS/OSM/DEM Data by Particle Filtering for Vehicle Attitude Estimation.
+Source Location with Quantized Sensor Data Corrupted by False Information.
+"MINI-DASS (Mission-Informed Needed Information - Discoverable, Available Information.. .... A Unique Information-Based Approach to Maximizing the Utility of ISR Assets and the ""Magic Rabbits"" that Your Mother was Afraid to Tell You About."
+Trust Estimation of Sources Over Correlated Propositions.
+Deep Generative Acoustic Models for Real-Time Sonar Systems.
+Open-Book Testing and Multi-Label Deep Generative Models.
+Bottle Detection in the Wild Using Low-Altitude Unmanned Aerial Vehicles.
+A Priori Independence for Deep Generative Models.
+Forty Years of Multiple Hypothesis Tracking - A Review of Key Developments.
+Seeing the Forest Through the Trees: Multiple-Hypothesis Tracking and Graph-Based Tracking Extensions.
+Radar Resource Management for Multiple Hypothesis Tracking.
+An MHT Approach to Multi-Sensor Passive Sonar Tracking.
+Probabilistic Fusion Framework for Collaborative Robots 3D Mapping.
+Real-Time Creation of a Target Situation Picture with the Hensoldt Passive Radar System.
+On Defense Strategies for Recursive System of Systems Using Aggregated Correlations.
+Subjective Logic Based Score Level Fusion: Combining Faces and Fingerprints.
+Multiple Target Tracking in Automotive FCM Radar by Multi-Bernoulli Filter with Elimination of Other Targets.
+Situation Awareness in Telecommunication Networks Using Topic Modeling.
+A Sensor Fault-Resilient Framework for Predictive Emission Monitoring Systems.
+Learning Capsules for Vehicle Logo Recognition.
+American Sign Language Posture Understanding with Deep Neural Networks.
+The Neighbor Course Distribution Method with Gaussian Mixture Models for AIS-Based Vessel Trajectory Prediction.
+A Parallel Platform for Fusion of Heterogeneous Stream Data.
+Model-Based Heterogeneous Optimal Space Constellation Design.
+Entropy-Based Intention Change Detection with a Multi-Hypotheses Filter.
+Prediction of Rendezvous in Maritime Situational Awareness.
+Extending Deng Entropy to the Open World in the Evidence Theory.
+Provenance Across Evidence Combination in Theory of Belief Functions.
+Efficient Computing of Dempster-Shafer Theoretic Conditionals for Big Hard/Soft Data Fusion.
+Magnitude Design of FIR Evidence Filters with Prescribed Transition Rolloff Using Bisection and ICMEE.
+Uncertain Pattern Classification Based on Evidence Fusion in Different Domains.
+Application of URREF Criteria to Assess Knowledge Representation in Cyber Threat Models.
+Towards the Rational Development and Evaluation of Complex Fusion Systems: A URREF-Driven Approach.
+Latent Variable Bayesian Networks Constructed Using Structural Equation Modelling.
+Directional Statistics with the Spherical Normal Distribution.
+Nonlinear Progressive Filtering for SE(2) Estimation.
+Numerical Calculation of the Fisher-Bingham Integral by the Holonomic Gradient Method.
+A New Estimation Methodology for Standard Directional Distributions.
+From Wirtinger to Fisher Information Inequalities on Spheres and Rotation Groups.
+Ship Classification Using Deep Learning Techniques for Maritime Target Tracking.
+Identifying Agile Waveforms with Neural Networks.
+Machine Learning: Defining Worldwide Cyclone Labels for Training.
+A Multi-User Multi-Task Model For Stress Monitoring From Wearable Sensors.
+PDAFAI with an Neural Network Acoustic Emulator.
+Robust Gyroscope-Aided Camera Self-Calibration.
+Inertial Sensor Array Processing with Motion Models.
+Magnetic Odometry - A Model-Based Approach Using a Sensor Array.
+A Method for Lower Back Motion Assessment Using Wearable 6D Inertial Sensors.
+A Policy System for Control of Data Fusion Processes and Derived Data.
+Distributed Machine Learning in Coalition Environments: Overview of Techniques.
+Security Issues for Distributed Fusion in Coalition Environments.
+Why the Failure? How Adversarial Examples Can Provide Insights for Interpretable Machine Learning.
+Remote State Estimation with Data-Driven Communication and Guaranteed Stability.
+Efficient Resource Management for Phased Array Radar Based on the Estimation of Target's Maneuvering Parameters.
+Simplified Desirability Level Metrics for Estimation Performance Evaluation.
+Training Instance Random Sampling Based Evidential Classification Forest Algorithms.
+Multisensor Data Fusion Using Equation Checking and Fuzzy Rules.
+A Fuzzy Approach for Detecting and Defending Against Spoofing Attacks on Low Interaction Honeypots.
+Fast Multi-Coil Parallel MR Imaging Based on a Combination of the Optimum Interpolation Approximation and Compressed Sensing.
+Person Recognition Based on Micro-Doppler and Thermal Infrared Camera Fusion for Firefighting.
+Color Image Segmentation Based on Evidence Theory and Two-Dimensional Histogram.
+Object Tracking via Deep Multi-View Compressive Model for Visible and Infrared Sequences.
+Success Rates and Posterior Probabilities in Multiple Hypothesis Tracking.
+On Anti-symmetry in Multiple Target Tracking.
+Conditions for MHT to be an Exact Bayesian Solution to the Multiple Target Tracking Problem.
+Fusing Bearing-Only Measurements with and Without Propagation Delays Using Particle Trajectories.
+Physics-Based and Human-Derived Information Fusion Video Activity Analysis.
+Convolutional Neural Networks for Aerial Multi-Label Pedestrian Detection.
+Learning the Parameters of Spatially-Referring Natural Language Likelihoods in Binary Models.
+2CoBei: An Efficient Belief Function Extension for Two-Dimensional Continuous Spaces.
+Total Belief Theorem and Generalized Bayes' Theorem.
+Credibilistic Independence of Two Propositions.
+Motion State Classification for Automotive LIDAR Based on Evidential Grid Maps and Transferable Belief Model.
+Weak in the NEES?: Auto-Tuning Kalman Filters with Bayesian Optimization.
+On Constraints in Parameter Estimation and Model Misspecification.
+Robust MIMO Channel Estimation from Incomplete and Corrupted Measurements.
+Particle Gaussian Mixture Filters-II.
+A Novel Gaussian Mixture Approximation for Nonlinear Estimation.
+An Optimal Node Depth Adjustment Method with Computation-Efficiency for Target Tracking in UWSNs.
+Efficient Factor Graph Fusion for Multi-Robot Mapping and Beyond.
+Distributed Evidential EM Algorithm for Gaussian Mixtures in Sensor Network with Uncertain Data.
+Controlled Sentiment Sampling for Information Fusion in Social Networks.
+Semi-Supervised Soft Label Propagation Based on Mass Function for Community Detection.
+Maritime Anomaly Detection Based on Mean-Reverting Stochastic Processes Applied to a Real-World Scenario.
+Hybrid Bernoulli Filtering for Detection and Tracking of Anomalous Path Deviations.
+Short Term Traffic Flow Prediction with Particle Methods in the Presence of Sparse Data.
+Correlation of Gaussian Mixture Tracks.
+Multi-Sensor Multi-Object Tracking with Different Fields-of-View Using the LMB Filter.
+Iterated Extended Kalman Filter with Implicit Measurement Equation and Nonlinear Constraints for Information-Based Georeferencing.
+Multi-Sensor Fusion for Obstacle Detection and Recognition: A Belief-Based Approach.
+Fast Kernel Density Estimation Using Gaussian Filter Approximation.
+Non-linear Estimation with Generalised Compressed Kalman Filter.
+A Linear-Complexity Second-Order Multi-Object Filter via Factorial Cumulants.
+Alternative EM Algorithms for Nonlinear State-Space Models.
+Fusion of Dependent Detection Systems Using Copula Theory.
+Evidential Object Association Using Heterogeneous Sensor Data.
+Tracking Multiple Maneuvering Targets Using Integer Programming and Spline Interpolation.
+Non-Elliptical Validation Gate for Maritime Target Tracking.
+Filtering When Object Custody is Ambiguous.
+Fusion Methodologies for Orbit Determination with Distributed Sensor Networks.
+Autonomous Multi-Phenomenology Space Domain Sensor Tasking and Adaptive Estimation.
+"Space Situational Awareness Sensor Tasking: A Comparison Between Step-Scan Tasking and Dynamic, Real-Time Tasking."
+Continuous-Discrete von Mises-Fisher Filtering on S2 for Reference Vector Tracking.
+Scalable Magnetic Field SLAM in 3D Using Gaussian Process Maps.
+Proof of Concept Tests on Cooperative Tactical Pedestrian Indoor Navigation.
+Gaussian Processes for RSS Fingerprints Construction in Indoor Localization.
+Polymorphic Information Exchange Model for the purpose of Multi-level Fusion of Hard and Soft Information.
+Context-Based Goal-Driven Reasoning for Improved Target Tracking.
+Conflict Management for Bayesian and DST Multi-Sensor Occupancy Grid Mapping.
+High-Level Tracking Using Bayesian Context Fusion.
+Multipath Generalized Labeled Multi-Bernoulli Filter.
+Trajectory probability hypothesis density filter.
+Receding Horizon Estimation for Multi-Target Tracking via Random Finite Set Approach.
+Distinguishing Wanted and Unwanted Targets Using Point Processes.
+GMPHD Based Multi-Scan Clutter Sparsity Estimation.
+Joint Registration of Multiple Point Sets by Preserving Global and Local Structure.
+Joint Tracking and Registration in Multi-Target Multi-Sensor Surveillance Using Factor Graphs.
+On Universal Sensor Registration.
+Accurate Registration of Multitemporal UAV Images Based on Detection of Major Changes.
+MIMO Through-Wall-Radar Spotlight Imaging Based on Arithmetic Image Fusion.
+Multi-Camera Matching of Spatio-Temporal Binary Features.
+Unscented Information Consensus Filter for Maneuvering Target Tracking Based on Interacting Multiple Model.
+Energy-Efficient Decision Fusion for Distributed Detection in Wireless Sensor Networks.
+Distributed RGBD Camera Network for 3D Human Pose Estimation and Action Recognition.

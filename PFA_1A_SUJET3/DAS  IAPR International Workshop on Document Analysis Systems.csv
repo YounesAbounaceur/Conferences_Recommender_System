@@ -1,0 +1,78 @@
+Title
+13th IAPR International Workshop on Document Analysis Systems  DAS 2018  Vienna  Austria  April 24-27  2018.
+Word Spotting and Recognition Using Deep Embedding.
+Learning Deep Representations for Word Spotting under Weak Supervision.
+Exploring Critical Aspects of CNN-based Keyword Spotting. A PHOCNet Study.
+CNN Training with Graph-Based Sample Preselection: Application to Handwritten Character Recognition.
+Offline Handwriting Recognition on Devanagari Using a New Benchmark Dataset.
+Offline Arabic Handwriting Recognition Using BLSTMs Combination.
+Baseline Detection in Historical Documents Using Convolutional U-Nets.
+Handwriting Recognition of Historical Documents with Few Labeled Data.
+Graph-Based Keyword Spotting in Historical Documents Using Context-Aware Hausdorff Edit Distance.
+Non-destructive Digitization of Soiled Historical Chinese Bamboo Scrolls.
+The Robust Reading Competition Annotation and Evaluation Platform.
+Learning Surrogate Models of Document Image Quality Metrics for Automated Document Image Processing.
+Ontology and Framework for Semantic Labelling of Document Data and Software Methods.
+Learning Text Component Features via Convolutional Neural Networks for Scene Text Detection.
+Text Line Extraction Based on Integrated K-Shortest Paths Optimization.
+A Bidirectional Information Aggregation Architecture for Scene Text Detection.
+Cutting Sayre's Knot: Reading Scene Text without Segmentation. Application to Utility Meters.
+Online Video Text Detection with Markov Decision Process.
+Vocabulometer: A Web Platform for Document and Reader Mutual Analysis.
+Comparing Different Feedback Modalities in Assisted Transcription of Manuscripts.
+Automatic Recovery of Corrupted Font Encoding in PDF Documents Using CNN-based Symbol Recognition with Language Model.
+Green Interaction for Extracting Family Information from OCR'd Books.
+Comparing Machine Learning Approaches for Table Recognition in Historical Register Books.
+Table Recognition in Spreadsheets via a Graph Representation.
+Printed/Handwritten Texts and Graphics Separation in Complex Documents Using Conditional Random Fields.
+Symbol Detection in Online Handwritten Graphics Using Faster R-CNN.
+A Free-Sketch Recognition Method for Chemical Structural Formula.
+Handwritten Music Object Detection: Open Issues and Baseline Results.
+Encoding CNN Activations for Writer Recognition.
+Gaussian Process Classification as Metric Learning for Forensic Writer Identification.
+Stable Regions and Object Fill-Based Approach for Document Images Watermarking.
+Towards Detection of Morphed Face Images in Electronic Travel Documents.
+Feature Fusion for Scene Text Detection.
+From Extraction to Spotting for Cuneiform Script Analysis.
+Handwriting Identification of Short Historical Manuscripts.
+A Multi-faceted OCR Framework for Artificial Urdu News Ticker Text Recognition.
+Deep Learning for Classification and as Tapped-Feature Generator in Medieval Word-Image Recognition.
+Synthetically Generated Semantic Codebook for Bag-of-Visual-Words Based Word Spotting.
+Word Spotting Using Convolutional Siamese Network.
+Compact Binary Feature for Open Set Recognition.
+InDUS: Incremental Document Understanding System Focus on Document Classification.
+Feature Selection for Document Flow Segmentation.
+Field Extraction by Hybrid Incremental and A-Priori Structural Templates.
+Comics Story Representation System Based on Genre.
+Document Image Binarization Using Recurrent Neural Networks.
+Offset Neural Network for Document Orientation Identification.
+Predicting Mobile-Captured Document Images Sharpness Quality.
+Document Bleed-Through Removal Using Sparse Image Inpainting.
+Fully Convolutional Neural Networks for Page Segmentation of Historical Document Images.
+Manuscript Text Line Detection and Segmentation Using Second-Order Derivatives.
+Layout Error Correction Using Deep Neural Networks.
+A Sequence Labeling Based Approach for Character Segmentation of Historical Documents.
+On the Similarities of Fingerprints and Railroad Tracks: Using Minutiae Detection Algorithms to Digitize Track Plans.
+Contained Neural Style Transfer for Decorated Logo Generation.
+anyAlign: An Intelligent and Interactive Text-Alignment Web-Application for Historical Document.
+Automatic Alignment of Handwritten Images and Transcripts for Training Handwritten Text Recognition Systems.
+Web Services in Document Image Analysis - Recent Developments on DIVAServices and the Importance of Building an Ecosystem.
+A Semi-automatized Modular Annotation Tool for Ancient Manuscript Annotation.
+A First Step Toward a Fair Comparison of Evaluation Protocols for Text Detection Algorithms.
+READ-BAD: A New Dataset and Evaluation Scheme for Baseline Detection in Archival Documents.
+ZoneMapAlt: An Alternative to the ZoneMap Metric for Zone Segmentation and Classification.
+"""Quality"" vs. ""Readability"" in Document Images: Statistical Analysis of Human Perception."
+Evaluation of Gist Operator for Document Image Retrieval.
+A New Descriptor for Pattern Matching: Application to Identity Document Verification.
+Offline Bengali Writer Verification by PDF-CNN and Siamese Net.
+Saliency-Based Detection of Identy Documents Captured by Smartphones.
+Automated Forgery Detection in Multispectral Document Images Using Fuzzy Clustering.
+Joint Recognition of Handwritten Text and Named Entities with a Neural End-to-End Model.
+Multi-dimensional Connectionist Classification: Reading Text in One Step.
+Does Deeper Network Lead to Better Accuracy: A Case Study on Handwritten Devanagari Characters.
+Hand Written Characters Recognition via Deep Metric Learning.
+Improving OCR Accuracy on Early Printed Books by Utilizing Cross Fold Training and Voting.
+OCR Error Correction: State-of-the-Art vs an NMT-based Approach.
+An Efficient Feature Vector for Segmentation-Free Recognition of Online Cursive Handwriting Based on a Hybrid Deep Neural Network.
+Knowledge Transfer Using Neural Network Based Approach for Handwritten Text Recognition.
+Optical Character Recognition for Sanskrit Using Convolution Neural Networks.

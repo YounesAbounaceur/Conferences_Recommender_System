@@ -1,0 +1,119 @@
+Title
+Proceedings of the 12th ACM Conference on Recommender Systems  RecSys 2018  Vancouver  BC  Canada  October 2-7  2018.
+Five E's: reflecting on the design of recommendations.
+Scalable structured prediction for richly structured socio-behavioral data.
+Recommending social cohesion.
+Why I like it: multi-task learning for recommendation and explanation.
+Effects of personal characteristics on music recommender systems with different levels of controllability.
+Providing explanations for recommendations in reciprocal environments.
+Explore  exploit  and explain: personalizing explainable recommendations with bandits.
+Interpreting user inaction in recommender systems.
+Impact of item consumption on assessment of recommendations in user studies.
+Multistakeholder recommendation with provider constraints.
+Translation-based factorization machines for sequential recommendation.
+Exploring recommendations under user-controlled data filtering.
+Quality-aware neural complementary item recommendation.
+Item recommendation on monotonic behavior chains.
+Deep reinforcement learning for page-wise recommendations.
+Causal embeddings for recommendation.
+Neural gaussian mixture model for review-based rating prediction.
+Interactive recommendation via deep neural memory augmented contextual bandits.
+Optimally balancing receiver and recommended users' importance in reciprocal recommender systems.
+HOP-rec: high-order proximity for implicit recommendation.
+Generation meets recommendation: proposing novel items for groups of users.
+Calibrated recommendations.
+No more ready-made deals: constructive recommendation for telco service bundling.
+Preference elicitation as an optimization problem.
+Comfride: a smartphone based system for comfortable public transport recommendation.
+Understanding user interactions with podcast recommendations delivered via voice.
+Deep inventory time translation to improve recommendations for real-world retail.
+The art of drafting: a team-oriented hero recommendation system for multiplayer online battle arena games.
+Recommending social-interactive games for adults with autism spectrum disorders (ASD).
+Sustainability at scale: towards bridging the intention-behavior gap with sustainable recommendations.
+What's going on in my city?: recommender systems and electronic participatory budgeting.
+How algorithmic confounding in recommendation systems increases homogeneity and decreases utility.
+Enhancing structural diversity in social networks by recommending weak ties.
+Exploring author gender in book rating and recommendation.
+Get me the best: predicting best answerers in community question answering sites.
+On the robustness and discriminative power of information retrieval metrics for top-N recommendation.
+Streamingrec: a framework for benchmarking stream-based news recommenders.
+A field study of related video recommendations: newest  most similar  or most relevant?
+Unbiased offline recommender evaluation for missing-not-at-random implicit feedback.
+Judging similarity: a user-centric study of related item recommendations.
+Recurrent knowledge graph embedding for effective recommendation.
+User preferences in recommendation algorithms: the influence of user diversity  trust  and product category on privacy perceptions in recommender algorithms.
+Spectral collaborative filtering.
+Categorical-attributes-based item classification for recommender systems.
+Eliciting pairwise preferences in recommender systems.
+Adaptive collaborative topic modeling for online recommendation.
+Recommendations for chemists: a case study.
+Word2vec applied to recommendation: hyperparameters matter.
+CF4CF: recommending collaborative filtering algorithms using collaborative filtering.
+Using citation-context to reduce topic drifting on pure citation-based recommendation.
+Measuring anti-relevance: a study on when recommendation algorithms produce bad suggestions.
+RecGAN: recurrent generative adversarial networks for recommendation systems.
+A crowdsourcing triage algorithm for geopolitical event forecasting.
+Large-scale recommendation for portfolio optimization.
+Deep neural network marketplace recommenders in online experiments.
+A hierarchical bayesian model for size recommendation in fashion.
+Psrec: social recommendation with pseudo ratings.
+Harnessing a generalised user behaviour model for next-POI recommendation.
+Learning consumer and producer embeddings for user-generated content recommendation.
+Field-aware probabilistic embedding neural network for CTR prediction.
+Attentive neural architecture incorporating song features for music recommendation.
+Decomposing fit semantics for product size recommendation in metric spaces.
+Learning to recommend diverse items over implicit feedback on PANDOR.
+Learning within-session budgets from browsing trajectories.
+Kernelized probabilistic matrix factorization for collaborative filtering: exploiting projected user and item graph.
+A probabilistic model for intrusive recommendation assessment.
+Trust-based collaborative filtering: tackling the cold start problem using regular equivalence.
+Rank and rate: multi-task learning for recommender systems.
+Audio-visual encoding of multimedia content for enhancing movie recommendations.
+Efficient online recommendation via low-rank ensemble sampling.
+Semantic-based tag recommendation in scientific bookmarking systems.
+CLoSe: Contextualized Location Sequence Recommender.
+User preference learning in multi-criteria recommendations using stacked auto encoders.
+Variational learning to rank (VL2R).
+Adapting session based recommendation for features through transfer learning.
+Hulu video recommendation: from relevance to reasoning.
+Hybrid search: incorporating contextual signals in recommendations at pinterest.
+Learning content and usage factors simultaneously to reduce clickbaits.
+Measuring operational quality of recommendations: industry talk abstract.
+Building recommender systems with strict privacy boundaries.
+Artwork personalization at netflix.
+Conversational content discovery via comcast X1 voice interface.
+Connecting sellers and buyers on the world's largest inventory.
+Extra: explaining team recommendation in networks.
+Case recommender: a flexible and extensible python framework for recommender systems.
+Tourrec: a tourist trip recommender system for individuals and groups.
+Module advisor: a hybrid recommender system for elective module exploration.
+Automating recommender systems experimentation with librec-auto.
+Query-based simple and scalable recommender systems with apache hivemall.
+Towards an open  collaborative REST API for recommender systems.
+Picture-based navigation for diagnosing post-harvest diseases of apple.
+Cognitive company discovery.
+2nd workshop on recommendation in complex scenarios (complexrec 2018).
+DLRS 2018: third workshop on deep learning for recommender systems.
+REVEAL 2018: offline evaluation for recommender systems.
+2nd FATREC workshop: responsible recommendation.
+Third international workshop on health recommender systems (healthrecsys 2018).
+Recsys'18 joint workshop on interfaces and human decision making for recommender systems.
+Knowledge-aware and conversational recommender systems.
+The 2nd workshop on intelligent recommender systems by knowledge transfer & learning (recsysKTL).
+ACM recsys workshop on recommenders in tourism (rectour 2018).
+Recsys challenge 2018: automatic music playlist continuation.
+ACM recsys'18 late-breaking results (posters).
+Concept to code: learning distributed representation of heterogeneous sources for recommendation.
+Modularizing deep neural network-inspired recommendation algorithms.
+Emotions and personality in recommender systems: tutorial.
+Multimedia recommender systems.
+Sequence-aware recommendation.
+Mixed methods for evaluating user satisfaction.
+Testing a recommender system for self-actualization.
+Comparing recommender systems using synthetic data.
+Towards the next generation of multi-criteria recommender systems.
+SeRenA: a semantic recommender for all.
+Using textual summaries to describe a set of products.
+Video recommendation using crowdsourced time-sync comments.
+Beyond the top-N: algorithms that generate recommendations for self-actualization.
+CHAMELEON: a deep learning meta-architecture for news recommender systems.
